@@ -9,8 +9,10 @@ You can build the project as follows:
 ```
 // clone the repo and initialize the submodule
 $ git clone https://github.com/fkohlgrueber/tree-sitter-example-rust.git --recursive
+
 // change to the rust crates' directory
 $ cd tree-sitter-example-rust/my_app/
+
 // build & run using cargo
 $ cargo run
 ```
