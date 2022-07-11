@@ -1,5 +1,7 @@
 # tree-sitter-example-rust
 
+<img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2022?style=flat-square"/>
+
 This repository shows how to use the rust binding of tree-sitter to load the tree-sitter json grammar.
 
 You can build the project as follows:
