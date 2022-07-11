@@ -1,11 +1,11 @@
 [package]
 name = "my_app"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Felix Kohlgrüber <felix.kohlgrueber@gmail.com>"]
-edition = "2018"
+edition = "2021"
 
 [dependencies]
-tree-sitter = "0.3.9"
+tree-sitter = "0.20.6"
 
 [build-dependencies]
 cc = "1.0"
